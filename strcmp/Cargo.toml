@@ -1,0 +1,4 @@
+[package]
+name = "strcmp"
+version = "0.1.0"
+authors = ["James Felts <jfelts1@users.noreply.github.com>"]
