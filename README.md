@@ -1,0 +1,2 @@
+# Rust
+trying out rust
